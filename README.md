@@ -94,6 +94,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Harshacric945&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
 </p>
 
+## 🏆 GitHub Profile Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshacric945&theme=onestar&no-frame=true&margin-w=10&row=1&&column=7" alt="GitHub Profile Trophy"/>
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshacric945&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshacric945&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 <!--
 ✨ "Never afraid to learn and upskill myself. Every mistake is a stepping stone. Check my commit history for proof. Let's connect and build something awesome together!"
 -->
