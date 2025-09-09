@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-- 💼 Former System Engineer at Infosys (2.8 years)
+- 💼 Former Senior System Engineer at Infosys (2.8 years)
 - 🌱 Currently upskilling for DevOps roles  
 - 🔁 Never afraid to learn & grow: every mistake is a lesson  
 - 🏆 Check my commit history to see my learning journey!
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white&style=for-the-badge" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins"/>
@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Elastic_stack_logo.svg" height="40" alt="ELK"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/elasticsearch.svg" height="40" alt="Elasticsearch"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Serverless/Lambda"/>
 </p>
 
