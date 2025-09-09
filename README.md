@@ -4,7 +4,7 @@
 <h3 align="center">Aspiring DevOps Engineer | Ex-Infosys | Always Learning 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8AC0&center=true&vCenter=true&width=435&lines=DevOps+Engineer+in+the+making!;AWS+%7C+Terraform+%7C+Jenkins+%7C+K8S+%7C+Docker;Learning+never+stops+%F0%9F%9A%80;Open+to+Work+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1F8AC0&center=true&vCenter=true&width=500&lines=DevOps+Engineer+in+the+making!;AWS+%7C+Terraform+%7C+Jenkins+%7C+K8S+%7C+Docker;Learning+never+stops+%F0%9F%9A%80;Open+to+Work+Opportunities" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white&style=for-the-badge" height="30"/>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="40" alt="Jenkins"/>
@@ -31,13 +31,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/elasticsearch.svg" height="40" alt="Elasticsearch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Serverless/Lambda"/>
+  <img src="https://img.shields.io/badge/ELK-Stack-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Serverless-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" height="30"/>
 </p>
 
+---
+
+## 🏆 GitHub Profile Trophy
+
 <p align="center">
-  <!-- Animated Tech Stack Badges -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshacric945&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Harshacric945&theme=onestar&no-frame=true&margin-w=10&row=1&&column=7" alt="GitHub Profile Trophy"/>
 </p>
 
 ---
@@ -90,16 +93,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshacric945&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
-## 🏆 GitHub Profile Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harshacric945&theme=onestar&no-frame=true&margin-w=10&row=1&&column=7" alt="GitHub Profile Trophy"/>
-</p>
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -107,7 +100,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Harshacric945&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<!--
-✨ "Never afraid to learn and upskill myself. Every mistake is a stepping stone. Check my commit history for proof. Let's connect and build something awesome together!"
--->
+---
 
+<p align="center">
+  <b>✨ Never afraid to learn and upskill myself. Every mistake is a stepping stone. Check my commit history for proof. Let's connect and build something awesome together! ✨</b>
+</p>
