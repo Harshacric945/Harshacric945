@@ -62,8 +62,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Harshacric945/spacelift-demo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshacric945&repo=spacelift-demo&theme=tokyonight" />
+      <a href="https://github.com/Harshacric945/Microservice">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshacric945&repo=Microservice&theme=tokyonight" />
       </a>
     </td>
     <td>
@@ -74,8 +74,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/Harshacric945/observability-zero-to-hero">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshacric945&repo=observability-zero-to-hero&theme=tokyonight" />
+      <a href="https://github.com/Harshacric945/vault-local-test">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harshacric945&repo=vault-local-test&theme=tokyonight" />
       </a>
     </td>
   </tr>
